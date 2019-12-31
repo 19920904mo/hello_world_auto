@@ -1,0 +1,2 @@
+[server1]
+18.176.59.80 ansible_ssh_private_key_file=~/.ssh/raise-and-infra-ssh-key.pem
